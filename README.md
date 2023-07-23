@@ -11,3 +11,6 @@ This is the Java Programming Project (ATM INTERFACE)
 6.BalanceCheck
 7.TransactionHistory
 8.Exit
+
+
+[ATM OUTPUT.pdf](https://github.com/suraj-raj01/CODSOFT_ATM_INTERFACE/files/12139604/ATM.OUTPUT.pdf)
